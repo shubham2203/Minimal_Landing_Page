@@ -117,7 +117,7 @@ background-color:#bb004b ;
 }
 .mytext{
     font-family: "Nunito-S";
-    font-size:80px;
+    font-size:60px;
     color: #edf0f1;
     font-weight: bold;
     margin-top: 20%;
@@ -138,7 +138,7 @@ background-color:#bb004b ;
     margin-left: 3%;
     margin-top: 1%;
     font-family: "Nunito-S";
-    font-size:20px;
+    font-size:15px;
     color: #edf0f1;
     font-weight: lighter;
     flex-wrap: wrap;
